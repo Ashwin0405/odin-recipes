@@ -1,0 +1,29 @@
+.simg{
+    height: auto;
+    width: 100px;
+    color: black;
+    background-color: aliceblue;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+}
+.ssimg{
+    height: auto;
+    width: 300px;
+    color: rgb(255, 215, 115);
+    background-color: rgb(142, 142, 142);
+}
+.ing{
+    color: rgb(1, 31, 58);
+    background-color: rgb(229, 255, 222);
+    font-size:small ;
+    font-weight: lighter;
+
+}
+.step{
+    color: aliceblue;
+    background-color: rgb(10, 80, 86);
+}
+.pro{
+    color: black;
+    background-color: aliceblue;
+}
